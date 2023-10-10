@@ -1,0 +1,56 @@
+{
+"cloth1":
+	{
+		"brandname": "Chanel",
+		"price":"7000",
+		"pic":"top1.jpg"
+	},
+	"cloth2":
+	{
+		"brandname": "Dior",
+		"price":"6500",
+		"pic":"top2.jpg"
+	},
+	"cloth3":
+	{
+		"brandname": "Versace",
+		"price":"8000",
+		"pic":"top3.jpg"
+	},
+	"cloth4":
+	{
+		"brandname": "Gucci",
+		"price":"7500",
+		"pic":"top4.jpg"
+	},
+	"cloth5":
+	{
+		"brandname": "Fendi",
+		"price":"5500",
+		"pic":"top5.jpg"
+	},
+	"cloth6":
+	{
+		"brandname": "D&G",
+		"price":"5000",
+		"pic":"top6.jpg"
+	},
+	"cloth7":
+	{
+		"brandname": "Pandora",
+		"price":"6000",
+		"pic":"top7.jpg"
+	},
+	"cloth8":
+	{
+		"brandname": "Hugo Boss",
+		"price":"4700",
+		"pic":"top8.jpg"
+	},
+	"cloth9":
+	{
+		"brandname": "Givenchy",
+		"price":"5300",
+		"pic":"top9.jpg"
+	}
+}
