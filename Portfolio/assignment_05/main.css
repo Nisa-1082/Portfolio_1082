@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(228, 239, 205);
+    
+}
+
+h2{
+    text-align: center;
+    color: darkslategray;
+}
+
+textarea{
+    color: rgb(42, 88, 92);
+}
+
+.button_Pose{
+    background-color: aquamarine;
+}
+.button_Clear{
+    background-color: rgb(255, 253, 127);
+}
+
+.grid-container {
+	display: grid;
+    /* grid-template-columns: 20% auto 0%; */
+    grid-gap: 10px;
+
+}
+.grid-container > div{
+	border: 1px solid rgba(244, 244, 244, 0);
+    font-size: 20px;
+    text-align: center;
+    background-color:rgb(190, 131, 131);
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+#_topic{
+    grid-column: 1 / span 4;
+}
+#_comment1{
+    grid-column: 1 / span 4;
+}
+#_comment2{
+    grid-column: 1 / span 4;
+}
+#_input{
+    grid-column: 1 / span 2;
+}
+#_button{
+    grid-column: 3 / span 2;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.color{
+    background-color: rgb(14, 34, 70);
+    color: antiquewhite;
+}
+.color1{
+    text-align: left;
+    background-color: rgb(79, 133, 127);
+    color: antiquewhite;
+}

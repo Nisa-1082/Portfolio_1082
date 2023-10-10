@@ -1,0 +1,83 @@
+h1{
+    text-align: center;
+    background-color: rgb(157, 179, 95);
+    color: rgb(96, 9, 136);
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.img-1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 70px;
+    width: 40%;
+}
+
+.img-2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 60px;
+    width: 80%;
+}
+
+.img-3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    width: 60%;
+}
+
+h2{
+    text-align: center;
+    color: rgb(96, 9, 136);
+    background-color: bisque;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+   
+}
+
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: antiquewhite;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.imgInstrution{
+    display: block;
+    margin-right: 30px;
+    border-radius: 30px;
+    width: 20%;
+}
+
+.center{
+    margin-right: auto;
+    margin-left: auto;
+    width: 70%;
+    
+}
+
+a:link{
+	color: #1100ff; 
+}  */
+/* visited link */
+a:visited{
+	color: #e5ff00; 
+} 
+/* mouse over link */  
+ a:hover{ 
+	color: #ff000d; 
+} 
+
+div a{
+    font-size: 20px;
+    font-weight: bold;
+}
